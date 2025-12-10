@@ -5,3 +5,5 @@ folium
 streamlit-folium
 openpyxl
 shapely
+matplotlib
+
