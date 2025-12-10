@@ -1,0 +1,6 @@
+Buscando videos en: C:\Users\sergi\clases estadistica ia
+Cargando modelo Whisper 'base'...
+Se encontraron 14 videos.
+Transcribiendo: 04 DE OCTUBRE - TECNOLOGIAS Y KIT DIGITAL PARA EL INVESTIGADOR MODERNO [J2pG-Z8QQBw].mp4 ...
+C:\Users\sergi\AppData\Roaming\Python\Python313\site-packages\whisper\transcribe.py:132: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
